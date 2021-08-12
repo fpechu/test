@@ -1,2 +1,2 @@
 # test
-Repositotio de prueba
+Repositorio de prueba
